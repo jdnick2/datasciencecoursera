@@ -3,7 +3,7 @@
 <li><code>activity_labels.txt</code> - Lists each activity with ID.</li>
 <li><code>features.txt</code> - List of the 561 features.</li>
 <li><code>subject_test.txt</code> - Vector of 2947 integers, showing the volunteer ID related to the observations in <code>X_test.txt</code>.</li>
-<li><code>subject_train.txt</code> - Vector of 7352 integers, showing the volunteer ID related to the observations in <code>X_train.txt>/code>.</li>
+<li><code>subject_train.txt</code> - Vector of 7352 integers, showing the volunteer ID related to the observations in <code>X_train.txt</code>.</li>
 <li><code>X_test.txt</code> - 2947 observations of the 561 features, for 9 of the 30 volunteers.</li>
 <li><code>X_train.txt</code> - 7352 observations of the 561 features, for 21 of the 30 volunteers.</li>
 <li><code>y_test.txt</code> - A vector of 2947 integers, showing the activity ID related to the observations in <code>X_test.txt</code>.</li>
