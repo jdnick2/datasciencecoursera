@@ -1,5 +1,8 @@
-Reproducible Research: Project 1
-================================
+---
+output: md_document
+---
+
+#Reproducible Research: Project 1
 
 ## Loading and preprocessing the data
 ```{r loaddata}
